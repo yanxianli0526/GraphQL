@@ -5,10 +5,10 @@ go 1.16
 require (
 	cloud.google.com/go/storage v1.22.1
 	github.com/99designs/gqlgen v0.13.0
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/dgrijalva/jwt-go v3.3.0
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/sessions v0.0.4
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/google/uuid v1.3.0
 	github.com/kelseyhightower/envconfig v1.4.0
@@ -35,7 +35,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/vektah/gqlparser/v2 v2.1.0
 	github.com/xuri/efp v0.0.0-20220603152613-6918739fd470 // indirect
-	golang.org/x/net v0.16.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
